@@ -20,13 +20,13 @@
 
 ## Projects
 
-### [Desktop Support Scheduling App](https://github.com/marshallbanks/projectname1)
+### [Desktop Support Scheduling App](https://github.com/MarshallBanks/C969-Performance-Assessment)
 Developed using C#, .NET, and SQL, this desktop user interface application facilitates scheduling with integrated database management.
 
-### [Degree Planner Mobile App](https://github.com/marshallbanks/projectname2)
+### [Degree Planner Mobile App](https://github.com/MarshallBanks/C971-Performance-Assessment)
 A multi-screen mobile application for iOS and Android platforms built with Xamarin and SQLite, designed to help students plan their academic coursework.
 
-### [Inventory Management App](https://github.com/marshallbanks/projectname3)
+### [Inventory Management App](https://github.com/MarshallBanks/Inventory-System)
 An inventory application created with C# and Visual Studio, featuring part and product management, search capabilities, and robust exception handling for enhanced data accuracy and operational efficiency.
 
 ## Personal Goals
