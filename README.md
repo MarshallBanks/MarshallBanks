@@ -1,8 +1,6 @@
 # Hi there, I'm Marshall Banks 👋
 
-<p align="center">
-  <iframe src="https://g96dmz.csb.app/" width="800" height="200" frameborder="0"></iframe>
-</p>
+[Check out my interactive banner!](https://g96dmz.csb.app/)
 
 ## About Me
 
