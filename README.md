@@ -32,12 +32,6 @@ Description of Project 2, emphasizing its importance and what you learned from i
 
 🚀 **Exploration**: Currently exploring different areas of software development to find my next passion.
 
-## Contact Me
-
-📫 **How to reach me**:
-- Email: marshallbanks@example.com
-- LinkedIn: [Marshall Banks](https://www.linkedin.com/in/marshallbanks)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshallbanks&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshallbanks&layout=compact&theme=radical)
