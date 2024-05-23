@@ -37,9 +37,10 @@ An inventory application created with C# and Visual Studio, featuring part and p
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshallbanks&layout=compact&theme=radical)
 
-## Credit for Banner!
+✨ **Special Thanks To** ✨
 
-𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: 𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻
+- **TypeIt**, **VueParticleJs**, and **Vue.js** for the typing intro
+- Check out the [CodeSandbox project](https://codesandbox.io/s/readme-introgif-9fjo5)
 
 ---
 
