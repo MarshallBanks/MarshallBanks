@@ -41,4 +41,4 @@ An inventory application created with C# and Visual Studio, featuring part and p
 
 ---
 
-*“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.” – Albert Schweitzer*
+*“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” – Mike Tyson*
