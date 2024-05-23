@@ -4,9 +4,9 @@
 
 ## About Me
 
-💻 **Software Developer**: I have a Bachelor of Science in Software Development from WGU. I currently work as an Application Developer at DSHS in Washington State.
+💻 **Software Engineer**: I specialize in full-stack development, focusing on creating scalable, high-impact software solutions. I currently work as a Software Engineer at the State of Washington, Department of Social and Health Services (DSHS) in the Division of Child Support.
 
-🎓 **Education**: I graduated from Western Governors University (WGU) with a degree in Software Development.
+🎓 **Education**: I hold a Bachelor of Science in Software Development from Western Governors University (WGU), completed in June 2023.
 
 ## Tech Stack
 
