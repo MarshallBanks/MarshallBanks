@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Marshall Banks 👋
 
 ![GitHub Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
