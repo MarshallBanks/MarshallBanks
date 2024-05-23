@@ -1,6 +1,6 @@
 # Hi there, I'm Marshall Banks 👋
 
-![Interactive Banner](https://github.com/MarshallBanks/MarshallBanks/edit/main/banner.gif)
+![Interactive Banner](https://github.com/MarshallBanks/MarshallBanks/blob/main/banner.gif)
 
 ## About Me
 
