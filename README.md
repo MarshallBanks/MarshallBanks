@@ -1,4 +1,4 @@
-![Interactive Banner](https://github.com/MarshallBanks/MarshallBanks/blob/main/banner.gif)
+![Interactive Banner](https://github.com/MarshallBanks/MarshallBanks/blob/main/banner_small.gif)
 
 ## About Me
 
