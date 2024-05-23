@@ -1,6 +1,6 @@
 # Hi there, I'm Marshall Banks 👋
 
-[Check out my interactive banner!](https://g96dmz.csb.app/)
+[Check out my interactive banner!]([https://g96dmz.csb.app/](https://github.com/MarshallBanks/MarshallBanks/edit/main/banner.gif)
 
 ## About Me
 
