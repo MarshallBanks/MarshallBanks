@@ -40,7 +40,7 @@ An inventory application created with C# and Visual Studio, featuring part and p
 ✨ **Special Thanks To** ✨
 
 - **TypeIt**, **VueParticleJs**, and **Vue.js** for the typing intro
-- Check out the [CodeSandbox project](https://codesandbox.io/s/readme-introgif-9fjo5)
+- Check out the [CodeSandbox project]([https://codesandbox.io/s/readme-introgif-9fjo5](https://codesandbox.io/p/sandbox/v9i0r?file=%2Fsrc%2FApp.vue))
 
 ---
 
