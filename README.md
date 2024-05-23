@@ -6,7 +6,7 @@
 
 ## About Me
 
-💻 **Software Developer**: I have a Bachelor of Science in Software Development from WGU. I currently work as an Application Developer at DSHS in Washington State, starting in December.
+💻 **Software Developer**: I have a Bachelor of Science in Software Development from WGU. I currently work as an Application Developer at DSHS in Washington State.
 
 🎓 **Education**: I graduated from Western Governors University (WGU) with a degree in Software Development.
 
