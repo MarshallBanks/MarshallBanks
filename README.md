@@ -20,11 +20,14 @@
 
 ## Projects
 
-### [Project Name 1](https://github.com/marshallbanks/projectname1)
-Description of Project 1, highlighting what makes it unique and what technologies were used.
+### [Desktop Support Scheduling App](https://github.com/marshallbanks/projectname1)
+Developed using C#, .NET, and SQL, this desktop user interface application facilitates scheduling with integrated database management.
 
-### [Project Name 2](https://github.com/marshallbanks/projectname2)
-Description of Project 2, emphasizing its importance and what you learned from it.
+### [Degree Planner Mobile App](https://github.com/marshallbanks/projectname2)
+A multi-screen mobile application for iOS and Android platforms built with Xamarin and SQLite, designed to help students plan their academic coursework.
+
+### [Inventory Management App](https://github.com/marshallbanks/projectname3)
+An inventory application created with C# and Visual Studio, featuring part and product management, search capabilities, and robust exception handling for enhanced data accuracy and operational efficiency.
 
 ## Personal Goals
 
