@@ -6,17 +6,19 @@
 
 ## Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0a192f?style=for-the-badge&logo=csharp&logoColor=239120)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-0a192f?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=F05032)
+![GitKraken](https://img.shields.io/badge/GitKraken-0a192f?style=for-the-badge&logo=gitkraken&logoColor=179287)
+![Python](https://img.shields.io/badge/Python-0a192f?style=for-the-badge&logo=python&logoColor=3776AB)
 
 At work, I build new internal web apps in C#/.NET (Blazor) and also maintain existing systems.
 
-## Projects
+## Archived Coursework
+
+Older school projects I’m keeping for reference. Most of my professional work is in private repos.
 
 ### [Desktop Support Scheduling App](https://github.com/MarshallBanks/C969-Performance-Assessment)
 Built a scheduling desktop app with a SQL-backed data layer, including CRUD workflows, validation, and search/filtering.
@@ -30,11 +32,8 @@ Built an inventory manager in C# with part/product CRUD, search, and guardrails 
 ## Currently
 
 **Learning**: Deepening my .NET fundamentals (DI, async, HTTP, performance) and writing more tests.
+
 **Building**: Improving how I structure features end-to-end (UI → API → data) and keeping codebases clean.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshallbanks&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshallbanks&layout=compact&theme=radical)
 
 ---
 
