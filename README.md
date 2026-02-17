@@ -16,18 +16,10 @@
 
 At work, I build new internal web apps in C#/.NET (Blazor) and also maintain existing systems.
 
-## Archived Coursework
+## Featured
 
-Older school projects I’m keeping for reference. Most of my professional work is in private repos.
-
-### [Desktop Support Scheduling App](https://github.com/MarshallBanks/C969-Performance-Assessment)
-Built a scheduling desktop app with a SQL-backed data layer, including CRUD workflows, validation, and search/filtering.
-
-### [Degree Planner Mobile App](https://github.com/MarshallBanks/C971-Performance-Assessment)
-Built an iOS/Android degree planner in Xamarin + SQLite with multi-screen navigation, local persistence, and input validation.
-
-### [Inventory Management App](https://github.com/MarshallBanks/Inventory-System)
-Built an inventory manager in C# with part/product CRUD, search, and guardrails for common edge cases (validation + exception handling).
+### Portfolio
+https://marshallbanks.github.io/
 
 ## Currently
 
