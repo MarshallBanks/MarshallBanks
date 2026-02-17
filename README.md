@@ -1,10 +1,8 @@
-![Interactive Banner](https://github.com/MarshallBanks/MarshallBanks/blob/main/banner_small.gif)
-
 ## About Me
 
-💻 **Software Engineer**: I specialize in full-stack development, focusing on creating scalable, high-impact software solutions. I currently work as a Software Engineer at the State of Washington, Department of Social and Health Services (DSHS) in the Division of Child Support.
+**Software Engineer**: Full-stack developer at the State of Washington (DSHS), supporting the Division of Child Support. I build and maintain internal tools with C#/.NET (Blazor) and SQL.
 
-🎓 **Education**: I hold a Bachelor of Science in Software Development from Western Governors University (WGU), completed in June 2023.
+**Education**: I hold a Bachelor of Science in Software Development from Western Governors University (WGU), completed in June 2023.
 
 ## Tech Stack
 
@@ -16,31 +14,27 @@
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+At work, I build new internal web apps in C#/.NET (Blazor) and also maintain existing systems.
+
 ## Projects
 
 ### [Desktop Support Scheduling App](https://github.com/MarshallBanks/C969-Performance-Assessment)
-Developed using C#, .NET, and SQL, this desktop user interface application facilitates scheduling with integrated database management.
+Built a scheduling desktop app with a SQL-backed data layer, including CRUD workflows, validation, and search/filtering.
 
 ### [Degree Planner Mobile App](https://github.com/MarshallBanks/C971-Performance-Assessment)
-A multi-screen mobile application for iOS and Android platforms built with Xamarin and SQLite, designed to help students plan their academic coursework.
+Built an iOS/Android degree planner in Xamarin + SQLite with multi-screen navigation, local persistence, and input validation.
 
 ### [Inventory Management App](https://github.com/MarshallBanks/Inventory-System)
-An inventory application created with C# and Visual Studio, featuring part and product management, search capabilities, and robust exception handling for enhanced data accuracy and operational efficiency.
+Built an inventory manager in C# with part/product CRUD, search, and guardrails for common edge cases (validation + exception handling).
 
-## Personal Goals
+## Currently
 
-🌱 **Continuous Learning**: I'm always looking to improve my skills and take on new challenges.
-
-🚀 **Exploration**: Currently exploring different areas of software development to find my next passion.
+**Learning**: Deepening my .NET fundamentals (DI, async, HTTP, performance) and writing more tests.
+**Building**: Improving how I structure features end-to-end (UI → API → data) and keeping codebases clean.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshallbanks&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshallbanks&layout=compact&theme=radical)
-
-✨ **Special Thanks To** ✨
-
-- **TypeIt**, **VueParticleJs**, and **Vue.js** for the typing intro
-- Check out the [CodeSandbox project](https://codesandbox.io/p/sandbox/v9i0r?file=%2Fsrc%2FApp.vue)
 
 ---
 
