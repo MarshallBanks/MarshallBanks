@@ -1,12 +1,12 @@
 # Marshall Banks
 
-Software Engineer specializing in C#/.NET development.
+Software Engineer focused on C#/.NET development.
 
 ## About Me
 
-I'm a full-stack developer at the State of Washington (DSHS), supporting the Division of Child Support. I build and maintain internal applications using C#/.NET, Blazor, and SQL.
+I'm a full-stack developer at the State of Washington (DSHS), supporting the Division of Child Support. I build and maintain web applications using C#/.NET, Blazor, and SQL Server.
 
-I work on both modern .NET applications and legacy system modernization, with experience across the UI, API, and data layers.
+My work includes building new features, working with APIs and databases, fixing and modernizing older applications, writing tests, and resolving security issues.
 
 ## Tech Stack
 
@@ -15,7 +15,7 @@ I work on both modern .NET applications and legacy system modernization, with ex
 - **Data:** SQL Server, Dapper
 - **Testing:** MSTest
 - **Tools:** Visual Studio, Git, GitHub
-- **Other:** REST APIs, dependency injection, asynchronous programming
+- **Other:** REST APIs, dependency injection, async programming
 
 ## Featured Work
 
@@ -25,7 +25,7 @@ I work on both modern .NET applications and legacy system modernization, with ex
 
 ## Currently
 
-Strengthening my .NET skills through full-stack development, automated testing, security remediation, and legacy application modernization.
+Continuing to grow as a .NET developer, with a focus on backend development, APIs, testing, security, and application architecture.
 
 ## Education
 
